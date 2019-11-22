@@ -1,4 +1,4 @@
 // Your code here
-function saturdayFun(day="Saturday", target="") {
-  console.log(`This ${day}, I want to ${target}!`);
+function saturdayFun(day="Saturday", target="roller-skate") {
+  return `This ${day}, I want to ${target}!`);
 }
